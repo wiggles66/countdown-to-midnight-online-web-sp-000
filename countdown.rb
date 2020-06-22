@@ -17,4 +17,3 @@ countdown(10)
    break if number <= 0
     "HAPPY NEW YEAR!"
   end
->>>>>>> 08ba01d27eb8d362e9070e8af3ab1e64a5f3015a
